@@ -5,3 +5,4 @@
 crash.log
 .main.tf.swp
 .terraform.lock.hcl
+.terraform/providers/registry.terraform.io/hashicorp/aws/5.94.1/windows_amd64/terraform-provider-aws_v5.94.1_x5.exe
